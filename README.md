@@ -3,10 +3,14 @@ angular-google-places-autocomplete
 
 Angular directive for the Google Places Autocomplete component.
 
+_Corrected version with "main" and clean dev dependencies by La Belle Assiette ;)_
+
 Installation
 ------------
 
-Install via bower: `bower install angular-google-places-autocomplete`
+_Old installation instructions, to update!_
+
+Install via yarn: `bower install angular-google-places-autocomplete`
 
 Or if you're old skool, copy `src/autocomplete.js` into your project.
 
